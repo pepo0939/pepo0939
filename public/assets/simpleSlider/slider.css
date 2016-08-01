@@ -1,0 +1,29 @@
+#slider{
+  position: relative;
+  overflow: hidden;
+  margin: 20px auto 0 auto;
+}
+
+#slider ul {
+  position: relative;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+  width: 400px;
+}
+
+#slider ul li{
+  position: relative;
+  text-align: center;
+  float: left;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+  width: 400px;
+  list-style-type: none;
+}
+
+img{
+  background: grey;
+}
